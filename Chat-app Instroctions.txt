@@ -1,0 +1,23 @@
+powershell =>
+npm create vite@latest 
+projectname: chat app
+framework: react 
+variant: javascript
+open project-file: open cmd and npm install  |   npm install react-router-dom react-toastify firebase  |  npm run dev 
+
+
+VS CODE:
+
+✅ ES7+ React/Redux/React-Native Snippets – Provides shortcuts for React components.
+✅ React Developer Tools – Helps inspect React components.
+✅ Prettier - Code Formatter – Auto-formats your React code.
+✅ Simple React Snippets – More React-specific shortcuts.
+
+🔹 Tailwind CSS IntelliSense – Auto-suggests Tailwind classes.
+🔹 Auto Rename Tag – Renames paired JSX tags automatically.
+🔹 JavaScript (ES6) Code Snippets – Provides ES6 snippets.
+
+
+
+
+
