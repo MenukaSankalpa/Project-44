@@ -7,11 +7,11 @@ import ProfileUpdate from './pages/ProfileUpdate/ProfileUpdate'
 const App = () => {
   return (
     <>
-      <Route>
+      <Routes>
         <Route path='/' element={<Login/>}/>
         <Route path='/chat' element={<Chat/>}/>
         <Route path='/profile' element={<ProfileUpdate/>}/>        
-      </Route>
+      </Routes>
     </>
   )
 }
