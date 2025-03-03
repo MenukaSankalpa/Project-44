@@ -1,0 +1,28 @@
+{
+  "name": "project-44",
+  "version": "1.0.0",
+  "description": "Build a full-stack real-time chat app using React.js and Firebase with authentication. Users can sign up, log in, and send messages instantly. Firebase Firestore stores chats, while Firebase Auth manages authentication. The app supports real-time updates, user presence, and media sharing. Styled with Tailwind CSS for a modern UI. 🚀",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MenukaSankalpa/Project-44.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MenukaSankalpa/Project-44/issues"
+  },
+  "homepage": "https://github.com/MenukaSankalpa/Project-44#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "vite": "^6.2.0"
+  }
+}
