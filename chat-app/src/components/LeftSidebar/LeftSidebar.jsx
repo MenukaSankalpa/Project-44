@@ -23,7 +23,7 @@ const LeftSidebar = () => {
             <img src={assets.profile_img} alt="" />
             <div>
               <p>Menuka Sankalpa</p>
-              <span>Hello, How are you?</span>
+              <span>Hello, How are you? bro</span>
             </div>            
           </div>
         ))} 
