@@ -1,0 +1,8 @@
+venv/
+Lib/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.ipynb

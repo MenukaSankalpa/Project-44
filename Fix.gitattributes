@@ -1,0 +1,4 @@
+venv/* linguist-vendored
+Lib/* linguist-vendored
+*.pyc linguist-vendored
+*.ipynb linguist-vendored
